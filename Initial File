@@ -9,7 +9,12 @@ public class TheJungle{
 
 
 class TheCompetition{
+	// TheCompetition class will be the main organizer Boss Program to run all the work
+	// This will be the Supervisor Program
 
+	public void Run(){
+		// from here I will call all the other methods that are making the Algorithm to execute
+	}
 
 }
 
