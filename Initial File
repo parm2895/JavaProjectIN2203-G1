@@ -6,3 +6,25 @@ public class TheJungle{
 	}
 
 }
+
+
+class TheCompetition{
+
+
+}
+
+
+class Feline{
+	String catName;
+	int catStrength;
+}
+
+class Lion extends Feline{
+
+
+}
+
+class Tiger extends Feline{
+
+	
+}
