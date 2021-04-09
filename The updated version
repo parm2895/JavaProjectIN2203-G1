@@ -13,7 +13,7 @@ public class Jungle {
     }
  /**
  * 
-   * author GAURAV
+   * author parminder 201806551
      *
        * This class is responsible for creating felines and organizing there fights
          *
@@ -57,7 +57,7 @@ create();
          	}
          }
       /**
-    * author GAURAV
+    * author parminder 201806551
  * 
    * Parent class to create Feline
      *
